@@ -1,0 +1,3 @@
+GET /home 200
+GET /bad 404
+POST /login 201
